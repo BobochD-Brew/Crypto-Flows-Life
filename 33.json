@@ -4,6 +4,9 @@
         "description": "Flow Life #33 \n by @bobochdbrew",
         "animation_url": "https://bobochd-brew.github.io/Crypto-Flows-Life-Htmls/33.html",
         "image": "https://bobochd-brew.github.io/Crypto-Flows-Life-Pngs/33.png",
-        "creator": "Boboch D. Brew"
+        "creator": "Boboch D. Brew",
+        "attributes": [
+                { "trait_type": "Cells", "value": "2" }
+            ]
     }
     
